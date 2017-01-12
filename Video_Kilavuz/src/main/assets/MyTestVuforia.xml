@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kapi_Acik" size="316.000000 309.000000" />
+    <ImageTarget name="Elektrik_Destekli_Direksiyonun_Devreye_Alinmasi" size="312.000000 303.000000" />
+    <ImageTarget name="El_Freni_Cekili" size="320.000000 276.000000" />
+    <ImageTarget name="City_Dugmesi" size="325.000000 367.223816" />
+  </Tracking>
+</QCARConfig>
